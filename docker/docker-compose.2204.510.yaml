@@ -1,5 +1,3 @@
-version: "3"
-
 services:
   runtime-setup:
     image: &image swift-openapi-generator:22.04-5.10

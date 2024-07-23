@@ -7,8 +7,6 @@
 #   -f docker/docker-compose.2204.59.yaml \
 #   run test
 #
-version: "3"
-
 services:
   runtime-setup:
     image: &image swift-openapi-generator:default
